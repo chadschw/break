@@ -98,7 +98,7 @@ Clock.prototype.onMouseMove = function(e) {
         //     newFriction = 1;
         // }
 
-        this.hand.breakFriction = newFriction;
+        // this.hand.breakFriction = newFriction;
     }
 }
 
